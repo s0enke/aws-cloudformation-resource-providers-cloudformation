@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>software.amazon.cloudformation.stackset</groupId>
-    <artifactId>aws-cloudformation-stackset-handler</artifactId>
+    <artifactId>superluminar-cloudformation-stackset-handler</artifactId>
     <name>aws-cloudformation-stackset-handler</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>

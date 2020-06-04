@@ -10,7 +10,7 @@ To declare this entity in your AWS CloudFormation template, use the following sy
 
 <pre>
 {
-    "Type" : "AWS::CloudFormation::StackSet",
+    "Type" : "Superluminar::CloudFormation::StackSet",
     "Properties" : {
         "<a href="#stacksetname" title="StackSetName">StackSetName</a>" : <i>String</i>,
         "<a href="#administrationrolearn" title="AdministrationRoleARN">AdministrationRoleARN</a>" : <i>String</i>,
@@ -32,7 +32,7 @@ To declare this entity in your AWS CloudFormation template, use the following sy
 ### YAML
 
 <pre>
-Type: AWS::CloudFormation::StackSet
+Type: Superluminar::CloudFormation::StackSet
 Properties:
     <a href="#stacksetname" title="StackSetName">StackSetName</a>: <i>String</i>
     <a href="#administrationrolearn" title="AdministrationRoleARN">AdministrationRoleARN</a>: <i>String</i>
